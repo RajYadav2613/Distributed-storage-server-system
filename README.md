@@ -93,18 +93,6 @@ Amazon RDS
 
 ## Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/VishalxViper/Distributed-storage-server-system.git
-```
-
-Move into the project
-
-```bash
-cd distributed-storage-server-system
-```
-
 Launch EC2 instances.
 
 Mount Amazon EFS.
